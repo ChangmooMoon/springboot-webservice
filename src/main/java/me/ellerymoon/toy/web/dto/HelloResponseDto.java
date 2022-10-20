@@ -1,4 +1,4 @@
-package me.ellerymoon.toy.web;
+package me.ellerymoon.toy.web.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

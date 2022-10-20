@@ -2,6 +2,7 @@ package me.ellerymoon.toy.web;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
+import me.ellerymoon.toy.web.dto.HelloResponseDto;
 import org.junit.jupiter.api.Test;
 
 class HelloResponseDtoTest {
